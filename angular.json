@@ -137,5 +137,8 @@
       }
     }
   },
-  "defaultProject": "migration-pet"
+  "defaultProject": "migration-pet",
+  "cli": {
+    "analytics": "dda290d0-89c6-49cc-9d89-81cb8b850775"
+  }
 }
